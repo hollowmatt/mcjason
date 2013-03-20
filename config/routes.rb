@@ -2,9 +2,12 @@ MCJason::Application.routes.draw do
   # config/routes.rb
 
   scope "(:locale)" do
+		resources :helicopters, only: :index
+
     match '/:locale' => "home#index"
-  end
+
+		root :to => "home#index"
+	end
 
 
-  root :to => "home#index"
 end

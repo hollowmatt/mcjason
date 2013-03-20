@@ -12,6 +12,7 @@ group :development, :test do
   gem 'rb-fsevent', :require => false if RUBY_PLATFORM =~ /darwin/i
   gem 'guard-rspec'
   gem 'pry'
+	gem 'pry-debugger'
 end
 
 group :development do
