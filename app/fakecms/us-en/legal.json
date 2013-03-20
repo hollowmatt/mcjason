@@ -1,0 +1,45 @@
+{
+    "EULA": {
+        "title": "End User License Agreement",
+        "preamble": "This end user license agreement ('AGREEMENT') is a legal binding agreement",
+        "definitions": {
+            "title": "DEFINITIONS",
+            "a": "a. 'Documentation' shall mean any manuals and/or user documentation",
+            "b": "b. 'Software' shall meand the object code version of the Nook software",
+            "c": "c. 'Products' shall mean the software and the documentation"
+        },
+        "license": {
+            "title": "LICENSE GRANT",
+            "a": "a. Subject to the terms and blah",
+            "b": "b. Third-Party software.  Certain blah"
+        }
+    },
+
+    "TERMS": {
+        "title": "Terms of Condition and Use",
+        "preamble": "Welcome to the barnes and noble website, blah, blah",
+        "sections": {
+            "I": "I. LICENSES AND RESTRICTIONS",
+            "II": "II. TRADEMARKS"
+        }
+    },
+
+    "PRIVACY": {
+        "title": "Mobile Privacy Supplement",
+        "preamble": "This mobile privacy supplement blah, blah",
+        "questions": {
+            "1": "1. What personal information do we collect",
+            "2": "2. How do we collect personal information",
+            "3": "3. How do we use personal information"
+        }
+    },
+
+    "FAQ": {
+        "title": "FAQ - NOOK for Windows 8 Tablet",
+        "questions": {
+            "1": "How do I quickly access a book I'm reading",
+            "2": "My library is crowded, how do I delete items",
+            "3": "Who do I contact for support issues"
+        }
+    }
+}
