@@ -11,6 +11,7 @@ group :development, :test do
   gem "rspec-rails", ">= 2.12.2"
   gem 'rb-fsevent', :require => false if RUBY_PLATFORM =~ /darwin/i
   gem 'guard-rspec'
+  gem 'pry'
 end
 
 group :development do
