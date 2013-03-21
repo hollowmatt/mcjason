@@ -2,9 +2,10 @@
 # See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
 
 en_US:
-  title: "Just the Home Page, US yo"
-  hello: "Hello world"
+  title: "Just the Home Page, US rules yo!"
+  hello: "Hello world, yo!"
+  helilink: "See my choppers"
 
   helicopters:
-    title: 'I am a helicopter'
+    title: 'I am an american war helicopter'
     hello: 'I will take your head off.'

@@ -1,1 +1,14 @@
+%button.btn.btn-navbar.collapsed{"data-target" => ".nav-collapse", "data-toggle" => "collapse", :type => "button"}
+  %span.icon-bar
+  %span.icon-bar
+  %span.icon-bar
 = link_to "MCJason", root_path, :class => 'brand'
+.nav-collapse
+  %ul.nav
+    %li
+      = link_to_unless_current "US English", locale: nil
+    %li
+      = link_to_unless_current "Canadian English", locale:  :ca
+    %li
+      = link_to_unless_current "Francais Canadien", locale: 'fr-CA'.to_sym
+

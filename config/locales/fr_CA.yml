@@ -1,7 +1,8 @@
 fr_CA:
   title: "Juste la page d'accueil"
   hello: "Bonjour tout la monde"
+  helilink: "Regardez mes elicopters"
 
   helicopters:
-      title: 'I am a le French helicopter'
-      hello: 'I will take your French head off.'
+    title: "Je suis l'elicopter francais"
+    hello: "Je veux vous decapitez."

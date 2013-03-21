@@ -31,3 +31,4 @@ gem 'jquery-rails'
 gem "haml-rails", ">= 0.4"
 gem "bootstrap-sass", ">= 2.3.0.0"
 gem "figaro", ">= 0.6.3"
+gem 'geoip-rails'

@@ -1,3 +1,7 @@
 en:
   title: "Just the Home Page"
   hello: "Hello world"
+
+  helicopters:
+      title: 'I am a helicopter'
+      hello: 'I fly around.'

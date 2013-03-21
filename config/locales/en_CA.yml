@@ -1,7 +1,8 @@
 en_CA:
   title: "Just the Home Page, eh"
-  hello: "Hello world, ehtitle"
+  hello: "Hello world, eh"
+  helilink: "See my helicopters, eh"
 
   helicopters:
-      title: 'I am a helicopter eh'
-      hello: 'I will take your head off eh.'
+      title: 'I am a helicopter, eh'
+      hello: 'I will take you for a ride, eh.'

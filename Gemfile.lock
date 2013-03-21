@@ -74,6 +74,7 @@ GEM
     figaro (0.6.3)
       bundler (~> 1.0)
       rails (>= 3, < 5)
+    geoip-rails (0.1.2)
     guard (1.6.2)
       listen (>= 0.6.0)
       lumberjack (>= 1.0.2)
@@ -211,6 +212,7 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   email_spec (>= 1.4.0)
   figaro (>= 0.6.3)
+  geoip-rails
   guard-rspec
   haml-rails (>= 0.4)
   html2haml (>= 1.0.1)
